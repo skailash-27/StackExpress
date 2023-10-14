@@ -1,10 +1,10 @@
 # `npm install`
 
-run the above command to install all the required dependencies at client side
+run the above command to install all the required dependencies at **client side**
 
 # `npm install`
 
-run the above command to install all the required dependencies at server side
+run the above command to install all the required dependencies at **server side**
 
 # `npm start`
 
